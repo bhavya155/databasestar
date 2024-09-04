@@ -45,7 +45,6 @@ INSERT INTO wands (id, code, coins_needed, power) VALUES
 (16, 4, 7710, 5),
 (17, 2, 8798, 7),
 (18, 2, 3312, 3),
-(19, 4, 7651, 6),
 (20, 5, 5689, 3);
 
 INSERT INTO wands_property (code, age, is_evil) VALUES
